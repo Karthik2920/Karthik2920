@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik_Saraf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthiksaraf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik_Saraf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-saraf-6b12b4247/)
 [![Email](https://img.shields.io/badge/Email-karthiksaraf67%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthiksaraf67@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Karthik2920-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karthik2920)
 
@@ -72,7 +72,7 @@ I'm a Data Scientist and ML Engineer with hands-on experience across the **full 
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🎯 [AnomalyVision — Surveillance Video Anomaly Detection](https://github.com/Karthik2920/anomaly-vision)
 
@@ -85,7 +85,6 @@ I'm a Data Scientist and ML Engineer with hands-on experience across the **full 
 | Model Parameters | **~1.96M** |
 | Architecture | ConvLSTM Autoencoder |
 
-**Highlights:**
 - 🧠 Built sequence-to-sequence ConvLSTM Autoencoder in TensorFlow from scratch
 - 🔥 Per-frame **spatial heatmaps** showing *where* anomalies occur in the frame
 - 🌐 Deployed as interactive **Streamlit web app** with video upload & CSV export
@@ -95,6 +94,29 @@ I'm a Data Scientist and ML Engineer with hands-on experience across the **full 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+### 📊 [Sales Analytics Pipeline — End-to-End ETL + BI Dashboard](https://github.com/Karthik2920/sales-analytics-pipeline)
+
+> Production-style ETL pipeline that extracts raw sales data, transforms it into a star schema warehouse, and powers an interactive BI dashboard.
+
+| Feature | Detail |
+|---------|--------|
+| Records Processed | **5,000+ transactions** |
+| Tables in Warehouse | **6 (fact + dim + aggregates)** |
+| Pipeline Steps | Extract → Transform → Load → Visualise |
+| Dashboard Charts | Revenue trend, regional, category, segment, discount analysis |
+
+- 🔄 **ETL pipeline** — clean, validate, feature-engineer, load into SQLite warehouse
+- 📐 **Star schema** design with fact & dimension tables
+- 📊 **Interactive BI dashboard** with KPI cards, trend charts, regional maps
+- 📥 Filters by year, region, category + one-click CSV export
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
