@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Karthik+Saraf+%F0%9F%91%8B;Data+Scientist+%26+ML+Engineer;Building+AI+that+Solves+Real+Problems;MS+Data+Science+%40+UNT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Karthik+Saraf+%F0%9F%91%8B;Data+Scientist+%26+ML+Engineer;MS+Data+Science+%40+UNT;IEEE+Published+Researcher" alt="Typing SVG" />
 
 <br/>
 
@@ -13,44 +12,25 @@
 
 ---
 
-```python
-class KarthikSaraf:
-    def __init__(self):
-        self.name        = "Karthik Saraf"
-        self.role        = "Data Scientist | ML Engineer | Deep Learning Researcher"
-        self.education   = "MS Data Science @ University of North Texas (May 2026)"
-        self.undergrad   = "B.Tech Computer Science (AI & ML) @ SRM Institute"
-        self.location    = "Texas, USA"
-        self.published   = "IEEE Author"
+## 👨‍💻 About Me
 
-    def get_expertise(self):
-        return [
-            "Deep Learning (ConvLSTM, ResNet, Transformers)",
-            "MLOps — training pipelines, evaluation, Docker deployment",
-            "Data Engineering — ETL/ELT, SQL, PySpark, Kafka",
-            "Cloud Analytics — AWS SageMaker, GCP, Azure",
-            "Business Intelligence — Tableau, Power BI",
-        ]
+🎓 **MS Data Science** @ University of North Texas *(May 2026)*
+🏫 **B.Tech CS (AI & ML)** @ SRM Institute of Science and Technology
+📍 Texas, USA &nbsp;|&nbsp; 📄 IEEE Published Author
 
-    def get_achievements(self):
-        return [
-            "Built ConvLSTM Autoencoder achieving AUC-ROC 0.82 on UCSD benchmark",
-            "Improved reporting accuracy by 20% through automated data pipelines",
-            "Deployed ML workflows on AWS SageMaker for forecasting & NLP",
-            "IEEE-published research in AI & anomaly detection",
-        ]
+I'm a Data Scientist and ML Engineer with hands-on experience across the **full data lifecycle** — from raw data ingestion and ETL pipelines to deep learning model deployment. I specialize in turning complex datasets into actionable insights and production-ready AI systems.
 
-    def current_focus(self):
-        return "Anomaly Detection · Scalable ML Pipelines · Real-time AI Systems"
-```
+- 🔭 Currently working on **Anomaly Detection** using ConvLSTM Autoencoders
+- 🌱 Exploring **Scalable ML Pipelines** and **Real-time AI Systems**
+- 💼 Experience in **Data Engineering**, **Cloud Analytics**, and **BI Dashboarding**
+- 📊 Strong background in **Tableau, Power BI, SQL, PySpark**
+- ⚡ Fun fact: I automate everything I do more than twice
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-<div align="center">
-
-**Languages & ML**
+**Languages & ML Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -62,41 +42,45 @@ class KarthikSaraf:
 
 **Data Engineering & Cloud**
 
-![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Databases & BI**
+**Databases & BI Tools**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🎯 [AnomalyVision — Surveillance Video Anomaly Detection](https://github.com/Karthik2920/anomaly-vision)
-> ConvLSTM Autoencoder trained on UCSD Pedestrian Dataset to detect anomalies in surveillance footage
-
-- Built a **sequence-to-sequence ConvLSTM Autoencoder** (~2M params) in TensorFlow
-- Achieved **AUC-ROC 0.82** on UCSDped2 benchmark (EER: 0.18)
-- Interactive **Streamlit app** with video upload, spatial heatmaps, and CSV export
-- Full **MLOps pipeline** — training with EarlyStopping/ReduceLROnPlateau, Docker containerised
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Project
+
+### 🎯 AnomalyVision — Surveillance Video Anomaly Detection
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Karthik2920/anomaly-vision)
+
+> Deep learning system that detects anomalies in surveillance footage using a ConvLSTM Autoencoder trained on the UCSD Pedestrian Dataset.
+
+| Metric | Result |
+|--------|--------|
+| AUC-ROC (UCSDped2) | **0.82** |
+| Equal Error Rate | **0.18** |
+| Model Parameters | **~1.96M** |
+| Architecture | ConvLSTM Autoencoder |
+
+**Key highlights:**
+- 🧠 Built sequence-to-sequence ConvLSTM Autoencoder in TensorFlow from scratch
+- 🔥 Per-frame spatial heatmaps showing *where* anomalies occur
+- 🌐 Deployed as interactive Streamlit web app with video upload & CSV export
+- 🐳 Full MLOps pipeline with Docker, training callbacks, and benchmark evaluation
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -113,16 +97,26 @@ class KarthikSaraf:
 
 ---
 
-## 📜 Publications
+## 💼 Experience Highlights
 
-- **IEEE Published** — Research in AI & Anomaly Detection
-  *SRM Institute of Science and Technology, 2024*
+| Role | Company | Impact |
+|------|---------|--------|
+| Graduate Student Assistant | University of North Texas | Improved reporting accuracy by **20%**, maintained **99% uptime** for 10,000+ students |
+| Data Intern | nGenue | Built Tableau dashboards, automated ETL pipelines with Python & SQL |
+| Data & ML Intern | AICTE – AWS AIML | Deployed ML workflows on **AWS SageMaker** for forecasting, CV & NLP |
+
+---
+
+## 📜 Publication
+
+📄 **IEEE Published** — Research in AI & Anomaly Detection
+*SRM Institute of Science and Technology, 2024*
 
 ---
 
 <div align="center">
 
-⚡ *"Turning raw data into intelligence — from pipelines to production ML"*
+*"Turning raw data into intelligence — from pipelines to production ML"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Karthik2920&color=6366f1&style=flat-square&label=Profile+Views)
 
