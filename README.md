@@ -1,8 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Karthik+Saraf+%F0%9F%91%8B;Data+Scientist+%26+ML+Engineer;MS+Data+Science+%40+UNT;IEEE+Published+Researcher" alt="Typing SVG" />
+<!-- Animated wave header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Karthik%20Saraf&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20IEEE%20Author&descAlignY=55&descSize=18"/>
+
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=MS+Data+Science+%40+University+of+North+Texas;Building+AI+that+Solves+Real+Problems;Deep+Learning+%7C+MLOps+%7C+Data+Engineering;Open+to+Full-time+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
+
+<!-- Open to work badge -->
+![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-Full_Time_Roles-22c55e?style=for-the-badge)
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik_Saraf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthiksaraf)
 [![Email](https://img.shields.io/badge/Email-karthiksaraf67%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthiksaraf67@gmail.com)
@@ -16,7 +25,7 @@
 
 🎓 **MS Data Science** @ University of North Texas *(May 2026)*
 🏫 **B.Tech CS (AI & ML)** @ SRM Institute of Science and Technology
-📍 Texas, USA &nbsp;|&nbsp; 📄 IEEE Published Author
+📍 Texas, USA &nbsp;|&nbsp; 📄 **IEEE Published Author**
 
 I'm a Data Scientist and ML Engineer with hands-on experience across the **full data lifecycle** — from raw data ingestion and ETL pipelines to deep learning model deployment. I specialize in turning complex datasets into actionable insights and production-ready AI systems.
 
@@ -24,11 +33,14 @@ I'm a Data Scientist and ML Engineer with hands-on experience across the **full 
 - 🌱 Exploring **Scalable ML Pipelines** and **Real-time AI Systems**
 - 💼 Experience in **Data Engineering**, **Cloud Analytics**, and **BI Dashboarding**
 - 📊 Strong background in **Tableau, Power BI, SQL, PySpark**
+- 💡 IEEE-published researcher in AI & Computer Vision
 - ⚡ Fun fact: I automate everything I do more than twice
 
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages & ML Frameworks**
 
@@ -56,12 +68,13 @@ I'm a Data Scientist and ML Engineer with hands-on experience across the **full 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+</div>
+
 ---
 
 ## 🚀 Featured Project
 
-### 🎯 AnomalyVision — Surveillance Video Anomaly Detection
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Karthik2920/anomaly-vision)
+### 🎯 [AnomalyVision — Surveillance Video Anomaly Detection](https://github.com/Karthik2920/anomaly-vision)
 
 > Deep learning system that detects anomalies in surveillance footage using a ConvLSTM Autoencoder trained on the UCSD Pedestrian Dataset.
 
@@ -72,11 +85,16 @@ I'm a Data Scientist and ML Engineer with hands-on experience across the **full 
 | Model Parameters | **~1.96M** |
 | Architecture | ConvLSTM Autoencoder |
 
-**Key highlights:**
+**Highlights:**
 - 🧠 Built sequence-to-sequence ConvLSTM Autoencoder in TensorFlow from scratch
-- 🔥 Per-frame spatial heatmaps showing *where* anomalies occur
-- 🌐 Deployed as interactive Streamlit web app with video upload & CSV export
-- 🐳 Full MLOps pipeline with Docker, training callbacks, and benchmark evaluation
+- 🔥 Per-frame **spatial heatmaps** showing *where* anomalies occur in the frame
+- 🌐 Deployed as interactive **Streamlit web app** with video upload & CSV export
+- 🐳 Full **MLOps pipeline** — Docker, training callbacks, benchmark evaluation (AUC/EER/F1)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
@@ -97,11 +115,45 @@ I'm a Data Scientist and ML Engineer with hands-on experience across the **full 
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Karthik2920&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Karthik2920&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthik2920/Karthik2920/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthik2920/Karthik2920/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Karthik2920/Karthik2920/output/github-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
 ## 💼 Experience Highlights
 
 | Role | Company | Impact |
 |------|---------|--------|
-| Graduate Student Assistant | University of North Texas | Improved reporting accuracy by **20%**, maintained **99% uptime** for 10,000+ students |
+| Graduate Student Assistant | University of North Texas | Improved reporting accuracy **20%**, maintained **99% uptime** for 10,000+ students |
 | Data Intern | nGenue | Built Tableau dashboards, automated ETL pipelines with Python & SQL |
 | Data & ML Intern | AICTE – AWS AIML | Deployed ML workflows on **AWS SageMaker** for forecasting, CV & NLP |
 
@@ -118,6 +170,11 @@ I'm a Data Scientist and ML Engineer with hands-on experience across the **full 
 
 *"Turning raw data into intelligence — from pipelines to production ML"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Karthik2920&color=6366f1&style=flat-square&label=Profile+Views)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Karthik2920&color=6366f1&style=for-the-badge&label=Profile+Views)
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
